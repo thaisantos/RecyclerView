@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetoRecyclerView</string>
+    <string name="produto_selecionado">Produto Selecionado</string>
+    <string name="meus_produtos">Meus Produtos</string>
+    <string name="adicionar_produto">Adicionar Produto</string>
+    <string name="nome_produto">Nome Produto</string>
+    <string name="preco">Preco</string>
+</resources>
